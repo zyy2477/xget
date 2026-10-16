@@ -23,11 +23,12 @@
 
 </div>
 
-An ultra-high-performance, secure, all-in-one acceleration engine for developer
-resources. It provides unified, efficient acceleration for code hosting, model
+An ultra-high-performance, secure, all-in-one acceleration engine for developer resources. It provides unified, efficient acceleration for code hosting, model
 and dataset hubs, package registries, container registries, AI inference
 providers, and more, while handling caching, retries, security headers, and
 protocol-specific compatibility behavior for you.
+
+> 🎬 **Give your next demo a visual finish.** When Xget gets your models, datasets, and assets moving, [Renoise](https://renoise.ai/plugin) can turn the idea behind the project into video, images, or music from an AI conversation. See the [official plugin repository](https://github.com/ArcoCodes/renoise-plugins-official) to connect the creative step.
 
 Technical deep dive:
 **_[Deep Dive into Xget: A High-Performance, Multi-Protocol, and Secure Acceleration Engine for Developer Resources](https://blog.xi-xu.me/en/2025/10/07/Deep-Dive-into-Xget.html)_**.
